@@ -1,5 +1,5 @@
 <? 
-//hehegit
+//hehe
 if(isset($_POST['submit_subscribe'])){
 	
 	$post = array(
